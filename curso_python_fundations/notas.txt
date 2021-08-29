@@ -1,0 +1,4 @@
+Adriano,10,9,8,9
+Almeida,7,8,8,9
+Barreto,7,6,10,7
+Monteiro,5,9,10,4
